@@ -5,7 +5,7 @@ import json
 import time
 import os
 
-os.chdir("C:/Users/sajji/OneDrive/Desktop/personal_projects/Reward_points")
+os.chdir("")
 data = json.load(open("dictionary.json"))
 words = list(data.keys())
 
