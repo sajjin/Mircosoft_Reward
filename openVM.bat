@@ -1,0 +1,1 @@
+vboxmanage startvm "Windows 10"
